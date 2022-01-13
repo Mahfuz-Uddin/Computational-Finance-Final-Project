@@ -1,11 +1,3 @@
-'''
-@project       : Queens College CSCI 365/765 Computational Finance
-@Instructor    : Dr. Alex Pang
-@Student Name  : Tanzina Eisha, Richard Lin, Mahfuz Uddin
-@Date          : June 2021
-Discounted Cash Flow Model with Financial Data from Yahoo Financial
-https://medium.datadriveninvestor.com/how-to-calculate-intrinsic-value-of-a-stock-aapl-case-study-935fb062004b
-'''
 import enum
 import calendar
 import math
