@@ -1,5 +1,5 @@
-# Computational-Finance-Final-Project
-scrapes data and manipulates it to get useful data.
+# CSCI 365 ##Computational-Finance-Final-Project
+
 ### Overview <br/>
 The goal of the final project is to reinforce what you have learned in class and give you a chance to implement
 some of the pricing models we had discussed in class. The project will be done in a group of 3 students. At
