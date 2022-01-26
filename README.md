@@ -1,6 +1,6 @@
 # Computational-Finance-Final-Project
 scrapes data and manipulates it to get useful data.
-Overview
+### Overview
 The goal of the final project is to reinforce what you have learned in class and give you a chance to implement
 some of the pricing models we had discussed in class. The project will be done in a group of 3 students. At
 the end of the semester, one of the member will have to pack all the files into a single zip file and email that
@@ -23,13 +23,13 @@ working on the project until the very last min, I require each group to check of
 final project google sheet as we progress through the semester. I will upload code templates to help you
 acheive the goal of the projects. You can deviate from the code template and fix whatever you think is
 needed. However, I do not see the reason for your final codes to be dramatically different.
-Milestone 1
+#Milestone 1
 A. Form your team. Start knowing your team members.
-Milestone 2
+#Milestone 2
 A. Find the "EPS next 5Y" field from finviz.com. Add that in the StockUniverse.csv file.
 B. Fill in the missing code in download_fundamental_data.py implementation. Run it to generate a
 StockUniverseWithData.csv output file.
-Milestone 3
+#Milestone 3
 A. Fill in the missing code in the stock.py
 CFFinalProject.md 6/17/2021
 2 / 2
@@ -38,7 +38,7 @@ C. Fill in the missing code in run_DCF.py. Run it to generate a StockUniverseVal
 Milestone 4
 A. Fill in the missing code in the binomial_model.py
 B. Fill in the missing code in the BlackScholes_model.py
-Finally Done
+#Finally Done
 A. Write a summary report what your group's buy and sell recommendation is. It should have date of the
 analysis and brief description the reasoning behind. One recommendation should be based on
 technical analysis. The other should be based on fundamental analysis. For technical analysis, include a
