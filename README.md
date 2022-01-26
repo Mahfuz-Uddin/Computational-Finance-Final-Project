@@ -24,22 +24,22 @@ working on the project until the very last min, I require each group to check of
 final project google sheet as we progress through the semester. I will upload code templates to help you
 acheive the goal of the projects. You can deviate from the code template and fix whatever you think is
 needed. However, I do not see the reason for your final codes to be dramatically different. <br/>
-# Milestone 1 <br/>
+### Milestone 1 <br/>
 A. Form your team. Start knowing your team members. <br/>
 # Milestone 2 <br/>
 A. Find the "EPS next 5Y" field from finviz.com. Add that in the StockUniverse.csv file. <br/>
 B. Fill in the missing code in download_fundamental_data.py implementation. Run it to generate a
 StockUniverseWithData.csv output file. <br/>
-# Milestone 3 <br/>
+### Milestone 3 <br/>
 A. Fill in the missing code in the stock.py
 CFFinalProject.md 6/17/2021 
 2 / 2 <br/>
 B. Fill in the missing code in the discount_cf_model.py <br/>
 C. Fill in the missing code in run_DCF.py. Run it to generate a StockUniverseValuation.csv file. <br/>
-# Milestone 4 <br/>
+### Milestone 4 <br/>
 A. Fill in the missing code in the binomial_model.py <br/>
 B. Fill in the missing code in the BlackScholes_model.py <br/>
-# Finally Done <br/>
+### Finally Done <br/>
 A. Write a summary report what your group's buy and sell recommendation is. It should have date of the
 analysis and brief description the reasoning behind. One recommendation should be based on
 technical analysis. The other should be based on fundamental analysis. For technical analysis, include a
