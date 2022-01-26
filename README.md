@@ -13,6 +13,9 @@ C. A single Jupyter notebook with corresponding results. I should not need to re
 I do choose to re-run your notebook, it should run through without any errors. I will upload the Jupyter
 notebook template on Blackboard.<br/>
 
+
+![This is an image](https://images.mktw.net/im-473176?width=700&height=482)
+
 ## Components of the project
 There are two major parts of the project. The first is to use technical as well as fundamental analysis to come
 up with two buy and sell recommendations among a given set of 30 stocks. One recommendation will be
