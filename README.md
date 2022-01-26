@@ -1,4 +1,4 @@
-# CSCI 365 - Computational-Finance-Final-Project
+# CSCI 365 - Computational Finance Final Project
 
 ### Overview <br/>
 The goal of the final project is to reinforce what you have learned in class and give you a chance to implement
