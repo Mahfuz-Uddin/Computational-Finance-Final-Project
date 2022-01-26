@@ -26,7 +26,7 @@ acheive the goal of the projects. You can deviate from the code template and fix
 needed. However, I do not see the reason for your final codes to be dramatically different. <br/>
 ### Milestone 1 <br/>
 A. Form your team. Start knowing your team members. <br/>
-# Milestone 2 <br/>
+### Milestone 2 <br/>
 A. Find the "EPS next 5Y" field from finviz.com. Add that in the StockUniverse.csv file. <br/>
 B. Fill in the missing code in download_fundamental_data.py implementation. Run it to generate a
 StockUniverseWithData.csv output file. <br/>
