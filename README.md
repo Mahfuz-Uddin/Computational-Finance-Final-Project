@@ -39,7 +39,7 @@ C. Fill in the missing code in run_DCF.py. Run it to generate a StockUniverseVal
 ### Milestone 4 <br/>
 A. Fill in the missing code in the binomial_model.py <br/>
 B. Fill in the missing code in the BlackScholes_model.py <br/>
-### Finally Done <br/>
+### Milestone 5 <br/>
 A. Write a summary report what your group's buy and sell recommendation is. It should have date of the
 analysis and brief description the reasoning behind. One recommendation should be based on
 technical analysis. The other should be based on fundamental analysis. For technical analysis, include a
